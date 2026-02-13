@@ -20,6 +20,11 @@ information about the a32 project: the a32 project is made by the a32 team and t
 compatibility:
 
 runs on android 5.1 to 11
+
 runs on arm32 and arm64
+
 runs on 2gb of ram
+
 tested on A01 core
+
+cracked by: goxome and a32 alt team
