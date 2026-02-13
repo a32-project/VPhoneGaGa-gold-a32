@@ -15,3 +15,11 @@ WARNING: VPhoneGaGa gold a32 is not only a mod apk of VPhoneGaGa with premium an
 
 
 information about the a32 project: the a32 project is made by the a32 team and the app cracks by goxome, ac32-cracker-scripts and also by a32-crack-script
+
+
+compatibility:
+
+runs on android 5.1 to 11
+runs on arm32 and arm64
+runs on 2gb of ram
+tested on A01 core
