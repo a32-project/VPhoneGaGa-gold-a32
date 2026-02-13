@@ -3,6 +3,8 @@ VPhoneGaGa modded by a32 team and by goxome for a32-project
 
 # real info of VPhoneGaGa-gold-a32
 
+![images](https://github.com/user-attachments/assets/e0f631be-5130-432c-9b06-594d0f93cd32)
+
 VPhoneGaGa gold a32 Project
 
 VPhoneGaGa is an android emulator that has magisk and virtual root with paid and free versions.
